@@ -31,7 +31,7 @@
 ↑ 南京：2020和2017比好了一些，但是和2019比很难看出来相对大小。
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/4.png" width ="90%" height ="90%" />
+<img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/8.png" width ="90%" height ="90%" />
 </div>
 
 ↑ 上海：2020和2017比好了一点，但是和2019比好像高一点。
