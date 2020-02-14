@@ -1,8 +1,8 @@
 # 今年过年空气质量怎么样？与往年数据对比
 
-今年过年由于COVID-2019，路上车很少，鞭炮大部分地方也很少。
+今年过年由于COVID-2019，路上车比以往少很多，人的出行活动量也很少。
 
-今年过年空气质量怎么样？会比以前好吗？
+今年过年空气质量怎么样？比以前好吗？
 
 根据数据，正月初一到正月十五，一些城市的AQI变化如下（2017,2019,2020 三年对比）：
 
@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/1.png" width ="90%" height ="90%" />
 </div>
 
-↑ 北京：2020和2017比好了不少，但是和2019比很难看出来，推测还有天气、化工业的影响。
+↑ 北京：2020和2017比好了不少，但是和2019比很难看出来，推测还有天气、钢铁化工业的影响。
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/2.png" width ="90%" height ="90%" />
