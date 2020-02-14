@@ -40,7 +40,7 @@
 <img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/5.png" width ="90%" height ="90%" />
 </div>
 
-↑ 石家庄：看起来很难比较。
+↑ 石家庄：2020和2017比好了一些，但是和2019很难比较。
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/6.png" width ="90%" height ="90%" />
