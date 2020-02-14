@@ -1,6 +1,10 @@
 # 今年过年空气质量怎么样？与往年数据对比
 
-正月初一到正月十五，一些城市的AQI变化（2017,2019,2020对比）：
+今年过年由于COVID-2019，路上车很少，鞭炮大部分地方也很少。
+
+今年过年空气质量怎么样？粗糙地绘了一下数据。
+
+正月初一到正月十五，一些城市的AQI变化如下（2017,2019,2020 三年对比）：
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/1.png" width ="90%" height ="90%" />
