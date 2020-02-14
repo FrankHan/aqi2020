@@ -37,7 +37,7 @@
 ↑ 上海：2020和2017比好了一点，但是和2019比好像高一点。
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Flagrate/aqi2020/master/5.png" width ="90%" height ="90%" />
+<img src="https://raw.githubusercontent.com/FrankHan/aqi2020/master/5.png" width ="90%" height ="90%" />
 </div>
 
 ↑ 石家庄：2020和2017比好了一些，但是和2019很难比较。
